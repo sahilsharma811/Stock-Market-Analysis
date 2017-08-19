@@ -46,6 +46,6 @@ STEP-BY-STEP STOCK MARKET ANALYSIS
     Write as –
     • ./project.sh
 9. Now go through the options being displayed and choose the one you want to execute.
-10. If you want to generate graphs, install the R-base package and in its terminal window, add the relation in which you want to generate graphs.
+10. If you want to generate graphs, install the R-base package and in its terminal window, add the relation in which you want to generate graph.
 
  
